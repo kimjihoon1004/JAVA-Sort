@@ -2,6 +2,7 @@ package MergeSort;
 
 public class MergeSort {
 	
+	
 	/* 
 	 * initList : 정렬할 list.
 	 * mergedList : 정렬된 list.
