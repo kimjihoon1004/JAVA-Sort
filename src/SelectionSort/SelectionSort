@@ -49,4 +49,5 @@ public class SelectionSort {
 		sort(array);
 		printArray(array);
 	}
+	
 }
